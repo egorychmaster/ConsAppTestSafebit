@@ -1,0 +1,5 @@
+https://www.google.by
+https://yandex.ru/
+https://hh.ru/search/vacancy?order_by=publication_time&text=asp.net&enable_snippets=true&clusters=true&schedule=remote
+https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-return-a-value-from-a-task
+https://www.microsoft.com/ru-by/

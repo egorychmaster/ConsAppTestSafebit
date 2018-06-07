@@ -1,0 +1,5 @@
+В папке ConsAppTestSafebit\ConsAppTestSafebit\bin\Debug\ проекта лежит файл links.txt - в нём список url
+Запустить приложение так:
+ConsAppTestSafebit.exe links.txt
+
+Выходной файл с результатом будет в Result.txt
